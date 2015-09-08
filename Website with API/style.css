@@ -1,0 +1,35 @@
+body {
+    background-color: black;
+/*    background-image: url("illustration.jpg"); 
+   	background-size:cover;
+   	background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;*/
+    font-family: 'Josefin Sans', sans-serif;
+    color: white;
+
+}
+h1 {
+	text-align: center;
+	color: white;
+
+}
+
+input{
+	display: block;
+	margin: 300px auto 100px;
+	width: 575px;x
+	height: 50px;
+	font-size: 32px;
+	font-family: 'Josefin Sans', sans-serif;
+	text-align: center;
+	border: 0px;
+	background-color: black;
+	color: white;
+/*background-image: url("illustration.jpg");
+    border-radius: 25px;*/
+}
+
+*:focus {
+    outline: 0;
+}
